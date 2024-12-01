@@ -4,14 +4,17 @@
 const profile = {
     name: "Orel Rafailov",
     profession: "Fullstack Web Developer",
-    languages: ["JavaScript", "Scala", "Java", "Kotlin", "Python"],
-    frontend: ["HTML", "CSS", "Bootstrap", "Tailwind", "React", "Vite", "npm"],
-    backend: ["MongoDB", "MySQL", "SMSS", "Node.js", "Express.js", "Mongoose"],
-    other: ["Git", "Figma", "Trello", "Rubber Duck"],
-    hobbies: ["Fixing computers", "Linux distro hopping", "Reading philosophy, psychology, sci-fi and history books"],
-    futurePlans: "Build a robot arm statue",
+    hobbies: ["Fixing computers 🖥️", "Linux distro hopping 🐧",
 };
-
-console.log(`Hello, World! I'm ${profile.name}, a passionate ${profile.profession}.`);
-console.log("I love solving problems with code and collaborating on cool projects!");
 ```
+
+### 👨‍💻 About Me
+- 🧑‍🎓 Hobbies: I like fixing computers for friends, linux distro hopping and reading 
+- 📫 Reach me: [My LinkedIn](https://www.linkedin.com/in/orel-rafailov/)
+
+### 🛠️ Tech Stack
+Languages: JavaScript, Scala, Java, Kotlin, Python
+Frontend: HTML, CSS, Bootstrap, Tailwind, React, Vite, npm
+Backend: MongoDB, MySQL, SMSS, Node.js, Express.js, Mongoose
+Cloud: Vercel, Firebase
+Other: Git, Figma, Trello, Rubber Duck
