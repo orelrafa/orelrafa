@@ -4,7 +4,7 @@
 const profile = {
     name: "Orel Rafailov",
     profession: "Fullstack Web Developer",
-    hobbies: ["Fixing computers 🖥️", "Linux distro hopping 🐧"],
+    hobbies: ["Fixing computers", "Linux distro hopping"],
 };
 ```
 
