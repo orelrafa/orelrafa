@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, friend 👋
 
-<!--
-**orelrafa/orelrafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const profile = {
+    name: "Orel Rafailov",
+    profession: "Fullstack Web Developer",
+    languages: ["JavaScript", "Scala", "Java", "Kotlin", "Python"],
+    frontend: ["HTML", "CSS", "Bootstrap", "Tailwind", "React", "Vite", "npm"],
+    backend: ["MongoDB", "MySQL", "SMSS", "Node.js", "Express.js", "Mongoose"],
+    other: ["Git", "Figma", "Trello", "Rubber Duck"],
+    hobbies: ["Fixing computers", "Linux distro hopping", "Reading philosophy, psychology, sci-fi and history books"],
+    futurePlans: "Build a robot arm statue",
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(`Hello, World! I'm ${profile.name}, a passionate ${profile.profession}.`);
+console.log("I love solving problems with code and collaborating on cool projects!");
+```
