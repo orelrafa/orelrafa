@@ -16,4 +16,6 @@ const profile = {
 - Other: Android, Linux, Git, Figma, Trello, Rubber Duck
 
 📫 Reach me: [My LinkedIn](https://www.linkedin.com/in/orel-rafailov/) | My Website (Coming Soon!)
+</br>
+Currently learning: typescript, redux, docker
 
